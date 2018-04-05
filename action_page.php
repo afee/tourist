@@ -1,0 +1,1 @@
+<?php echo "Thank You!!!.Your message has been received";?>
